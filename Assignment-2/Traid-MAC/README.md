@@ -31,5 +31,4 @@ Contributions and improvements to this project are welcome! Feel free to open is
 
 ## Security Note
 
-The TRIAD cipher is designed to be lightweight, but proper implementation and use are crucial for security. Ensure that you follow best practices for secure messaging.<br>
-**Although the algorithm is correct. It is advised to not use it in real-life.**
+The TRIAD cipher is designed to be lightweight, but proper implementation and use are crucial for security. Ensure that you follow best practices for secure messaging.
