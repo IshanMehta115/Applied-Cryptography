@@ -36,6 +36,5 @@ The decryption algorithm outputs the plaintext.
 
 ## Security Note
 
-Please exercise caution when working with encryption algorithms. Ensure that you follow best practices for secure key management and use encryption responsibly. <br> 
-**Although the algorithm is correct. It is advised to not use it in real-life.** 
+Please exercise caution when working with encryption algorithms. Ensure that you follow best practices for secure key management and use encryption responsibly.
 
