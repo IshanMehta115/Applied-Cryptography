@@ -8,7 +8,7 @@ This project involves the implementation of the RSA (Rivest–Shamir–Adleman) 
 
 ### `Keys` Function
 
-- Upon calling the `Keys` function, it should generate both the public and private keys.
+- Upon calling the `Keys` function, it generates both the public and private keys.
 - The generated keys are fundamental for encryption and decryption processes.
 
 ### `Enc` Function
@@ -39,5 +39,4 @@ This project involves the implementation of the RSA (Rivest–Shamir–Adleman) 
 
 ## Security Note
 
-RSA is a widely used encryption method. Always ensure that you follow best practices for secure key management and use encryption responsibly.<br>
-Although the algorithm is correct. It is advised to not use it in real-life.
+RSA is a widely used encryption method. Always ensure that you follow best practices for secure key management and use encryption responsibly.
