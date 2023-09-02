@@ -24,7 +24,7 @@ The decryption algorithm outputs the plaintext.
 
 ## Implementation Details
 
-- The code is implemented in [programming language].
+- The code is implemented in C++.
 - The encryption and decryption algorithms adhere to the AES standards for the selected key length (128, 196, or 256 bits).
 
 ## Usage
