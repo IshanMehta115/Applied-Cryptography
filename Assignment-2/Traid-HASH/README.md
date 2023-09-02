@@ -16,7 +16,7 @@ This project focuses on the implementation of the TRIAD-HASH function, a cryptog
 
 - The project can be implemented in C++.
 - The specifications for TRIAD-HASH can be found [here](https://csrc.nist.gov/CSRC/media/Projects/Lightweight-Cryptography/documents/round-1/spec-doc/TRIAD-spec.pdf).
-- Understanding the principles of the TRIAD cipher is essential for correctly implementing the `TRIAD-HASH` function.
+- Understanding the principles of the TRIAD cipher was essential for correctly implementing the `TRIAD-HASH` function.
 
 ## Usage
 
@@ -31,5 +31,4 @@ Contributions and improvements to this project are welcome! Feel free to open is
 
 ## Security Note
 
-The TRIAD cipher is designed to be lightweight, and its use in cryptographic hashing should follow best practices to ensure security.<br>
-**Although the algorithm is correct. It is advised to not use it in real-life.**
+The TRIAD cipher is designed to be lightweight, and its use in cryptographic hashing should follow best practices to ensure security.
