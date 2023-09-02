@@ -28,5 +28,4 @@ The output of the function is a 128-bit ciphertext (for encryption) or plaintext
 
 ## Security Note
 
-Encryption is a crucial security measure, and Triple DES is considered secure. However, always ensure that you follow best practices for secure key management and use encryption responsibly.<br>
-**Although the algorithm is correct. It is advised to not use it in real-life.**
+Encryption is a crucial security measure, and Triple DES is considered secure. However, always ensure that you follow best practices for secure key management and use encryption responsibly.
