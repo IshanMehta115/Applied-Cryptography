@@ -10,7 +10,7 @@ The main objective of this project is to construct a function that implements th
 
 ### Encryption
 
-The encryption function should take the following inputs:
+The encryption function takes the following inputs:
 - A key `K`.
 - A nonce `N`.
 - A message `M`.
@@ -19,7 +19,7 @@ The output of the encryption function is a ciphertext `C`.
 
 ### Decryption
 
-The decryption function should take the following inputs:
+The decryption function takes the following inputs:
 - A key `K`.
 - A nonce `N`.
 - The ciphertext `C`.
@@ -29,7 +29,7 @@ The output of the decryption function is the original message.
 ## Implementation Details
 
 - The project is implemented in C++.
-- The encryption algorithm of TRIAD-AE should be implemented following the specifications provided by NIST.
+- The encryption algorithm of TRIAD-AE is implemented following the specifications provided by NIST.
 - The decryption algorithm is the reverse process, following the decryption specifications.
 
 ## Usage
@@ -41,5 +41,4 @@ The output of the decryption function is the original message.
 
 ## Security Note
 
-Encryption is a crucial security measure, and the TRIAD-AE cipher is a candidate under consideration by NIST. Always ensure that you follow best practices for secure key management and use encryption responsibly.<br>
-**Although the algorithm is correct. It is advised to not use it in real-life.**
+Encryption is a crucial security measure, and the TRIAD-AE cipher is a candidate under consideration by NIST. Always ensure that you follow best practices for secure key management and use encryption responsibly.
