@@ -5,7 +5,7 @@ This repository contains the assignments done by me during the Applied Cryptogra
 
 <hr>
 
-In this course on Applied cryptography, we will learn about the following topics:
+In this course on Applied cryptography, we learnt about the following topics:
 
 1. Introduction and perfect security
 2. Stream ciphers
